@@ -18,7 +18,7 @@ export const About = () => {
           </div>
           <div className="lg:w-1/2">
             <h2 className="text-3xl md:text-4xl font-serif font-bold text-slate-900 mb-6">
-              About SJoshua Nieves
+              About Joshua Nieves
             </h2>
             <div className="space-y-4 text-slate-600 leading-relaxed">
               <p>
